@@ -1,0 +1,20 @@
+[
+    {
+        "id_producto": 1,
+        "nombre": "Encebollado Mixto",
+        "categoria": "Platos Fuertes",
+        "precio": 4.5
+    },
+    {
+        "id_producto": 2,
+        "nombre": "Jugo Natural de Naranja",
+        "categoria": "Bebidas",
+        "precio": 1.25
+    },
+    {
+        "id_producto": 3,
+        "nombre": "Porción de Chifles",
+        "categoria": "Guarniciones",
+        "precio": 1.0
+    }
+]

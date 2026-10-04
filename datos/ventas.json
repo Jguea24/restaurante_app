@@ -1,0 +1,20 @@
+[
+    {
+        "id_venta": 1,
+        "id_usuario": 1,
+        "nombre_usuario": "admin",
+        "id_producto": 1,
+        "nombre_producto": "Encebollado Mixto",
+        "total": 4.5,
+        "fecha": "2026-09-25 19:01:12"
+    },
+    {
+        "id_venta": 2,
+        "id_usuario": 2,
+        "nombre_usuario": "mesero1",
+        "id_producto": 1,
+        "nombre_producto": "Encebollado Mixto",
+        "total": 4.5,
+        "fecha": "2026-10-03 21:18:47"
+    }
+]
