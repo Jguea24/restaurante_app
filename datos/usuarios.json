@@ -2,13 +2,13 @@
     {
         "id_usuario": 1,
         "username": "admin",
-        "password": "123",
+        "password": "123456",
         "rol": "Administrador"
     },
     {
         "id_usuario": 2,
         "username": "mesero1",
-        "password": "123",
+        "password": "1234567",
         "rol": "Empleado"
     }
 ]
